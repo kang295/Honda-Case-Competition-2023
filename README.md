@@ -7,6 +7,8 @@
 - **Raymond David** (rpdavid@andrew.cmu.edu)
 - **Angel Hsu** (anchih@andrew.cmu.edu)
 
+#### ⚙️ Tools Used: **Python**, **R**, and **Excel**
+
 #### 🏅 Achievement: Awarded for Excellence in Competition
 ---
 
