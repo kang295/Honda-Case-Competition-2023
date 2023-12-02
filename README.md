@@ -1,6 +1,13 @@
-# 🚗 CMU Tepper Data Analytics Club Challenge 
-### Sponsored by Honda/99P Labs - Fall 2023 
+# 🚗 CMU Tepper Data Analytics Club Challenge 🏆
+### Powered by Honda/99P Labs - Fall 2023 🍁
 
+#### 🌟 Team Data Nerds
+#### 🧠 Members:
+- **Hyoju Kang** (hyojukan@andrew.cmu.edu)
+- **Raymond David** (raymondpeterdavid@gmail.com)
+- **Angel Hsu** (anchih@andrew.cmu.edu)
+
+#### 🏅 Achievement: 3rd Place in Competition
 ---
 
 ## 🌟 About the Challenge
