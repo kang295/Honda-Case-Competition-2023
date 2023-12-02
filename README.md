@@ -4,7 +4,7 @@
 #### 🌟 Team Data Nerds
 #### 🧠 Members:
 - **Hyoju Kang** (hyojukan@andrew.cmu.edu)
-- **Raymond David** (raymondpeterdavid@gmail.com)
+- **Raymond David** (rpdavid@andrew.cmu.edu)
 - **Angel Hsu** (anchih@andrew.cmu.edu)
 
 #### 🏅 Achievement: Awarded for Excellence in Competition
