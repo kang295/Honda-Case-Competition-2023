@@ -1,0 +1,53 @@
+﻿State,Gasoline (Dollars per Gallon),Electricity (Dollars per eGallon)
+Texas,2.58,1.08
+Alabama,2.60,1.04
+Arkansas,2.60,0.90
+Louisiana,2.60,0.87
+Mississippi,2.60,1.02
+New Mexico,2.60,1.12
+Ohio,2.66,1.07
+Georgia,2.72,0.98
+North Carolina,2.72,0.96
+South Carolina,2.72,1.07
+Virginia,2.72,1.02
+West Virginia,2.72,1.04
+Massachusetts,2.74,1.96
+Minnesota,2.75,1.17
+Connecticut,2.76,1.85
+Illinois,2.76,1.12
+Indiana,2.76,1.15
+Iowa,2.76,1.03
+Kansas,2.76,1.11
+Kentucky,2.76,0.96
+Maine,2.76,1.50
+Michigan,2.76,1.50
+Missouri,2.76,0.85
+Nebraska,2.76,0.92
+New Hampshire,2.76,1.70
+North Dakota,2.76,0.85
+Oklahoma,2.76,0.81
+Rhode Island,2.76,2.05
+South Dakota,2.76,1.04
+Tennessee,2.76,0.95
+Vermont,2.76,1.73
+Wisconsin,2.76,1.32
+Colorado,2.80,1.10
+Florida,2.83,1.08
+New York,2.83,1.66
+Idaho,2.84,0.90
+Montana,2.84,1.00
+Utah,2.84,0.93
+Wyoming,2.84,0.97
+Deleware,2.90,1.14
+District of Columbia,2.90,1.18
+Maryland,2.90,1.16
+New Jersey,2.90,1.45
+Pennsylvania,2.90,1.20
+Alaska,3.10,1.99
+Arizona,3.10,1.11
+Hawaii,3.10,2.65
+Nevada,3.10,1.02
+Oregon,3.10,0.99
+Washington,3.13,0.89
+California,3.73,1.86
+US Average,2.85,1.16
