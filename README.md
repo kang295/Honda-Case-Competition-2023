@@ -7,7 +7,7 @@
 - **Raymond David** (raymondpeterdavid@gmail.com)
 - **Angel Hsu** (anchih@andrew.cmu.edu)
 
-#### 🏅 Achievement: 3rd Place in Competition
+#### 🏅 Achievement: Awarded for Excellence in Competition
 ---
 
 ## 🌟 About the Challenge
