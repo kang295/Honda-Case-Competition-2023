@@ -1,7 +1,7 @@
 # 🚗 CMU Tepper Data Analytics Club Challenge 🏆
 ### Powered by Honda/99P Labs - Fall 2023 🍁
 
-#### 🌟 Team Data Nerds
+#### 🌟 Team 'Data Nerds'
 #### 🧠 Members:
 - **Hyoju Kang** (hyojukan@andrew.cmu.edu)
 - **Raymond David** (rpdavid@andrew.cmu.edu)
